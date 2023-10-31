@@ -24,7 +24,7 @@ However, this [repository insights](https://github.com/pricing#compare-features)
 - but it is available for personal **public** repositories (or for personal **private** repositories with a **Team** subscription, which you may not have).
 
 ---
-
+WAZZUP! HALLOWEEN!
 </details>
 
 
@@ -33,7 +33,7 @@ Clone this [CS471-Assignments-Workflows](https://github.com/BoiseState/CS471-Ass
 
 ```bash
 $ git clone https://github.com/BoiseState/CS471-Assignments-Workflows.git
-
+AWOOO
 $ cd CS471-Assignments-Workflows
 ```
 
@@ -119,6 +119,6 @@ Install the [WorkflowLearning GitHub App](https://github.com/apps/workflowlearni
   ---
 
 </details>
-
+heres the first commit
 ## Step 7 - Canvas
 Answer the questions in the [Canvas](https://boisestatecanvas.instructure.com/) assignment.
